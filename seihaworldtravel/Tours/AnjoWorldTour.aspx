@@ -30,6 +30,8 @@
                                         <th>A. Day Adventure Pass (Unlimited Rides)</th>
                                         <th>B. Adventure Pass + Snow World</th>
                                     </tr>
+
+
                                 </thead>
                                 <tbody class="fw-bold">
                                     <tr><td>1</td><td>PHP 4,500</td><td>PHP 5,200</td></tr>
